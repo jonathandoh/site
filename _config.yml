@@ -9,10 +9,10 @@ google_analytics: G-XXXXXXXXXX # requires a free account
 font_awesome: 'XXXXXXXXXX.js' # set up a free account at fontawesome.com to get your kit ID
 
 author:
-  name: 'Will D. Cat'
-  email: will.d.cat@villanova.edu
-  twitter_username: WillDCatVU
-  github_username: VillanovaUniversity
+  name: 'Jonathan P. Doh'
+  email: jonathan.doh@villanova.edu
+  twitter_username: jonathanpdoh
+  github_username: jonathandoh
   # linkedin_username: 
   # ssrn_id: 
   # scopus_id:
